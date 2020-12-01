@@ -35,7 +35,7 @@ export default class extends React.Component {
         this.getWeather(latitude, longitude);
         
       } catch (error) {
-        Alert.alert("Can't find you.", "So sad");
+        Alert.alert("what is pull", "So sad");
       }
     };
     componentDidMount() {
