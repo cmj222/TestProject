@@ -4,6 +4,8 @@ import PropTypes from "prop-types";
 import {MaterialCommunityIcons} from '@expo/vector-icons'
 import { LinearGradient } from 'expo-linear-gradient'
 
+// 구름 편집 흔적임
+
 const weatherOptions = {
   Thunderstorm: {
     iconName: "weather-lightning",
